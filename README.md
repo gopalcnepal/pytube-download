@@ -1,8 +1,3 @@
-# pytube-download
-GUI based YouTube Video and Playlist Download application created using pytube and tkinter package in Python 3.
-
-## Need a Program?
-Just download the executable for your Operating system and run. The executable file will be named as per the OS.
-
-## Want more spices?
-Well you can download the code from *main.py* and modify it as per your requirement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ddcc7bd83df41093de5dc3e068c78c451c7ea7c2faab33db6a3d73cdddeed2a
+size 370
